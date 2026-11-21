@@ -1,0 +1,30 @@
+{
+    "bottle": {
+        "name": "Water Bottle",
+        "price": 20
+    },
+    "cup": {
+        "name": "Cup",
+        "price": 30
+    },
+    "banana": {
+        "name": "Banana",
+        "price": 10
+    },
+    "apple": {
+        "name": "Apple",
+        "price": 20
+    },
+    "orange": {
+        "name": "Orange",
+        "price": 15
+    },
+    "book": {
+        "name": "Notebook",
+        "price": 50
+    },
+    "cell phone": {
+        "name": "Mobile",
+        "price": 100
+    }
+}
